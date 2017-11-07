@@ -1,0 +1,9 @@
+body{
+
+}
+
+.header{
+  background-image: url(../images/the-flatiron-building.png);
+  text-align: center;
+  color: white;
+}
